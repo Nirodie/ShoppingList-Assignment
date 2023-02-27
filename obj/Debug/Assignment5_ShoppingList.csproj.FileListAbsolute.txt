@@ -1,0 +1,20 @@
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.csprojAssemblyReference.cache
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.MainForm.resources
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.Properties.Resources.resources
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.csproj.GenerateResource.cache
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\bin\Debug\Assignment5_ShoppingList.exe.config
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\bin\Debug\Assignment5_ShoppingList.exe
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\bin\Debug\Assignment5_ShoppingList.pdb
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.exe
+C:\Users\sqwic\source\repos\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.pdb
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\bin\Debug\Assignment5_ShoppingList.exe.config
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\bin\Debug\Assignment5_ShoppingList.exe
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\bin\Debug\Assignment5_ShoppingList.pdb
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.MainForm.resources
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.Properties.Resources.resources
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.exe
+E:\Visual Studio Projects\Assignment5\Assignment5_ShoppingList\obj\Debug\Assignment5_ShoppingList.pdb
